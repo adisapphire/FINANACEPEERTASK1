@@ -42,8 +42,4 @@ find the video demo here:
 
 https://drive.google.com/file/d/16lehaYsb0pP99T8wmjFdwp4sGjP325G9/view?usp=sharing
 
-
-<iframe src="https://drive.google.com/file/d/16lehaYsb0pP99T8wmjFdwp4sGjP325G9/preview" width="640" height="480" allow="autoplay"></iframe>
-
-
-
+[Embed Title](https://drive.google.com/file/d/16lehaYsb0pP99T8wmjFdwp4sGjP325G9/preview "@embed")
