@@ -1,9 +1,17 @@
-import React from 'react'
+import React from "react";
 
 export const Footer = () => {
-    return (
-        <div>
-            footer
-        </div>
-    )
-}
+  let footerstyle = {
+    position: "absolute",
+    top: "90vh",
+    width: "100%",
+  };
+
+  return (
+    <div>
+      <footer className="bg-dark text-light py-3" style={footerstyle}>
+        <p className="text-center">Copyright &copy; jsonapp.co</p>
+      </footer>
+    </div>
+  );
+};
